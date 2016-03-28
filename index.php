@@ -63,7 +63,7 @@ http://www.tooplate.com/view/2077-modern-town
 			<ul class="nav navbar-nav navbar-right main-navigation">
 				<li><a href="#home" class="smoothScroll">HOME</a></li>
 				<li><a href="#about" class="smoothScroll">ABOUT SBIT</a></li>
-                <li><a href="#testimonial" class="smoothScroll">PRODUCTS</a></li>
+                <li><a href="#testimonial" class="smoothScroll">PRODUCTS OF SBIT</a></li>
 				<li><a href="#blog" class="smoothScroll">BLOG</a></li>
 				<li><a href="#contact" class="smoothScroll">CONTACT</a></li>
 			</ul>
